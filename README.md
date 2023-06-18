@@ -2,8 +2,11 @@
 
 # Learning TypeScript
 
+![Typescript Banner](/assets/typescript.webp)
+
 ## Installation
 
+p
 You can install typescript as a project dependency or globally using npm, yarn or pnpm. Before installing, be sure to have Node js installed.
 
 1. As a project dependency:
